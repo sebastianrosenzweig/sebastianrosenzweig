@@ -1,5 +1,5 @@
 ### Hi, my name is Sebastian! 👋
-![](https://sebastianrosenzweig.github.io/images/intro_web.jpg)
+![](https://sebastianrosenzweig.github/images/intro_web.jpg)
 <!--
 **sebastianrosenzweig/sebastianrosenzweig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
